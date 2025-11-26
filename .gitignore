@@ -1,0 +1,5 @@
+#carpertas
+node_modules/
+
+#entorno
+.env
